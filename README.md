@@ -40,7 +40,7 @@ Ensure you have the following installed:
    ```
        npm install mongodb
    
-3.    install mongodb compass app and create database weatherupdates with collection weathers
+3.    install mongodb compass app and create database rulesengine with collection rules
 
 
 ## Running the App
